@@ -5,7 +5,7 @@ import (
 )
 
 func HelloWorld() string {
-	result := "Hello World123"
+	result := "Hello World"
 
 	return result
 }
